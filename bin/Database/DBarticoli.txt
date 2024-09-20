@@ -1,0 +1,8 @@
+pane 5 300
+formaggio 15 150
+farina 10 200
+patate 6 300
+carote 2 500
+salame 3 150
+prosciutto 15 120
+tonno 600 50

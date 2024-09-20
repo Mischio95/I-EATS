@@ -1,0 +1,6 @@
+d d 500
+Dijkstra percorsominimo 666
+Murano password1 400
+Stranieri password2 700
+SirTonno tonner 600
+
